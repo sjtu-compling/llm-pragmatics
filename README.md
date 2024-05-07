@@ -4,7 +4,7 @@ This repository contains code and data used in the project **[Do Large Language 
 ## Data Description 数据集介绍
 **SwordsmanImp** contains the 200 Chinese dialogues extracted from the sitcom *My own Swordsman*. Within each of the dialogue, there is one character line conveying a non-literal meaning. We provides four interpretations for these lines with implicatures, which include a pragmatic and a literal explanations and two semantically related distractors. Moreover, the dialogues are analyzed with Grice's cooperative principle and are annotated with the Gricean maxims in violation. Following is an entry in the dataset.
 
-Note that to prevent data contamination, we put the data in a zip file with the password: xxx.
+Note that to prevent data contamination, we put the data in a zip file with the password: 0135.
 
 **SwordsmanImp**包含了从情景喜剧《武林外传》中提取的200段人物对话。每个对话中都有一句人物台词包含言外之意。我们为这些含有言外之意的台词提供了四种解释，包括一个语用学范畴的解读，一个字面含义以及两个与上下文语境相关的干扰解读。我们用格Grice的合作原则对对话进行分析，并标注了每段对话所违反的Gricean maxim。以下是数据集中的一个条目。
 ![](graph/data_eg.png)
